@@ -80,7 +80,7 @@
 ## **🚀 시작하기**
 #### 1. **저장소 클론**
 ```Bash
-git clone https://github.com/nb07-Moonshot-Team2/NB07_Moonshot_Team2.git
+git clone https://github.com/ktmgw486/MoonShot.git
 cd moonshot
 ```
 
